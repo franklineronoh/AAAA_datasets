@@ -1,0 +1,28 @@
+Replacement of existing data layers with improved versions available with RCMRD - Kindly see attached list with data we intend to convert to geospatial format and submit. This is data from what has been collected in the field and redirection to institutions such as KNBS and platforms like KIAMIS. 
+1. Crop enterprises and suitable growing zones
+2. Crop statistics in the county per wards
+3. Livestock data in the county per wards
+4. List of all crops in the county and the crop risks
+5. CSA GG Technologies in Homabay County
+6. Homabay CIDP 2023
+7. Livestock data.
+8. Livestock statistics and products for 2024
+9. CIDP- 2023-2027 PDF
+10. Weekly weather forecast report
+11. Kisii climate change act 2021
+12. Livestock statistics 2024
+13. Livestock production annual report 2023
+14. Separation of crop and livestock under agriculture
+15. county level data: yield information for Major crops, crops under irrigation, horticulture. Estimated livestock populations, those slaughtered and those moved outside the county  by type, value of hides, skins, milk and hay information. Projected and census 2019 human population by gender.
+16. Sub county level data: human population, water sources including water pants & dams, fish ponds
+17. Ward level data: agroecological characterizations, dominant enterprises, irrigation technologies and water sources. Crops under irrigation by quantity and value
+18. Human population
+19. Livestock and Crop Priority value chains per ward
+20. County level hazards in SEACAP
+21. Agricultural infrastructures data in the county, Value of livestock, Priority value chains per ward
+22. Crops value data
+23. 2021 validated livestock statistics
+24. value chain gender-disaggregated data, policy frameworks (e.g., Gender, CSA, County Crop & Livestock data)
+25. Crop yields statistics and gendered enterprise data.
+26. Consult KNBS with database and website
+27. Crop and livestock population data

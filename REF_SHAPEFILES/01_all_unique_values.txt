@@ -1,0 +1,1763 @@
+===== Unique County Values =====
+Baringo
+Bomet
+Bungoma
+Busia
+Elgeyo-Marakwet
+Embu
+Garissa
+Homa Bay
+Isiolo
+Kajiado
+Kakamega
+Kericho
+Kiambu
+Kilifi
+Kirinyaga
+Kisii
+Kisumu
+Kitui
+Kwale
+Laikipia
+Lamu
+Machakos
+Makueni
+Mandera
+Marsabit
+Meru
+Migori
+Mombasa
+Muranga
+Nairobi
+Nakuru
+Nandi
+Narok
+Nyamira
+Nyandarua
+Nyeri
+Samburu
+Siaya
+Taita Taveta
+Tana River
+Tharaka-Nithi
+Trans Nzoia
+Turkana
+Uasin Gishu
+Vihiga
+Wajir
+West Pokot
+
+===== Unique Sub-County Values =====
+Ainabkoi
+Ainamoi
+Aldai
+Alego Usonga
+Athi River
+Awendo
+Balambala
+Banissa
+Baringo Central
+Baringo North
+Belgut
+Bobasi
+Bomachoge Borabu
+Bomachoge Chache
+Bomet Central
+Bomet East
+Bonchari
+Bondo
+Borabu
+Bumula
+Bunyala
+Bura
+Bureti
+Butere
+Butula
+Buuri
+Changamwe
+Chepalungu
+Cheptais
+Cherangany
+Chesumei
+Chuka
+Dadaab
+Dagoretti North
+Dagoretti South
+Eldas
+Embakasi Central
+Embakasi East
+Embakasi North
+Embakasi South
+Embakasi West
+Emgwen
+Emuhaya
+Endebess
+Fafi
+Galole
+Ganze
+Garbatulla
+Garissa
+Garsen
+Gatanga
+Gatundu North
+Gatundu South
+Gem
+Gilgil
+Githunguri
+Hamisi
+Homa Bay Town
+Hulugho
+Igambang'ombe
+Igembe Central
+Igembe North
+Igembe South
+Ijara
+Ikolomani
+Imenti Central
+Imenti North
+Imenti South
+Isiolo
+Jomvu
+Juja
+Kabete
+Kabondo Kasipul
+Kabuchai
+Kaiti
+Kajiado Central
+Kajiado East
+Kajiado North
+Kajiado West
+Kaloleni
+Kamukunji
+Kandara
+Kanduyi
+Kangema
+Kangundo
+Kapseret
+Karachuonyo
+Kasarani
+Kasipul
+Kathiani
+Keiyo North
+Keiyo South
+Kesses
+Khwisero
+Kiambaa
+Kiambu Town
+Kibish
+Kibra
+Kibwezi East
+Kibwezi West
+Kieni East
+Kieni West
+Kigumo
+Kiharu
+Kikuyu
+Kilifi North
+Kilifi South
+Kilome
+Kimilili
+Kiminini
+Kinango
+Kinangop
+Kipipiri
+Kipkelion East
+Kipkelion West
+Kirinyaga Central
+Kirinyaga East
+Kirinyaga North/Mwea West
+Kirinyaga South
+Kirinyaga West
+Kisauni
+Kisumu Central
+Kisumu East
+Kisumu West
+Kitui Central
+Kitui East
+Kitui Rural
+Kitui South
+Kitui West
+Kitutu Chache North
+Kitutu Chache South
+Koibatek
+Konoin
+Kuresoi North
+Kuresoi South
+Kuria East
+Kuria West
+Kwanza
+Lafey
+Lagdera
+Laikipia East
+Laikipia North
+Laikipia West
+Laisamis
+Lamu East
+Lamu West
+Langata
+Lari
+Likoni
+Likuyani
+Limuru
+Loima
+Loitokitok
+Luanda
+Lugari
+Lunga Lunga
+Lurambi
+Machakos
+Magarini
+Makadara
+Makueni
+Malava
+Malindi
+Mandera East
+Mandera North
+Mandera South
+Mandera West
+Manga
+Manyatta
+Marakwet East
+Marakwet West
+Marigat
+Masaba North
+Masinga
+Matayos
+Mathare
+Mathioya
+Mathira East
+Mathira West
+Matuga
+Matungu
+Matungulu
+Mbeere North
+Mbeere South
+Mbita
+Mbooni
+Merti
+Mogotio
+Moiben
+Molo
+Mosop
+Moyale
+Msambweni
+Mt Elgon
+Muhoroni
+Mukurweini
+Mumias East
+Mumias West
+Muranga South
+Muthambi
+Mvita
+Mwala
+Mwatate
+Mwimbi
+Mwingi Central
+Mwingi North
+Mwingi West
+Naivasha
+Nakuru East
+Nakuru North
+Nakuru West
+Nambale
+Nandi East
+Narok East
+Narok North
+Narok South
+Narok West
+Navakholo
+Ndaragwa
+Ndhiwa
+Njoro
+North Horr
+Nyakach
+Nyali
+Nyamira
+Nyamira North
+Nyando
+Nyaribari Chache
+Nyaribari Masaba
+Nyatike
+Nyeri Central
+Nyeri South
+Oljoroorok
+Olkalou
+Pokot Central
+Pokot North
+Pokot South
+Rabai
+Rangwe
+Rarieda
+Rongai
+Rongo
+Roysambu
+Ruaraka
+Ruiru
+Runyenjes
+Sabatia
+Saboti
+Saku
+Samburu Central
+Samburu East
+Samburu North
+Samia
+Seme
+Shinyalu
+Sigowet/Soin
+Sirisia
+Sotik
+South Mugirango
+Soy
+Starehe
+Suba
+Subukia
+Suna East
+Suna West
+Tarbaj
+Taveta
+Teso North
+Teso South
+Tetu
+Tharaka North
+Tharaka South
+Thika Town
+Tiaty
+Tigania East
+Tigania West
+Tinderet
+Tongaren
+Transmara East
+Transmara West
+Turbo
+Turkana Central
+Turkana East
+Turkana North
+Turkana South
+Turkana West
+Ugenya
+Ugunja
+Uriri
+Vihiga
+Voi
+Wajir East
+Wajir North
+Wajir South
+Wajir West
+Webuye  East
+Webuye West
+West Pokot
+Westlands
+Wundanyi
+Yatta
+
+===== Unique Ward Values =====
+Abakaile
+Abogeta East
+Abogeta West
+Abothuguchi Central
+Abothuguchi West
+Ademasajide
+Adu
+Ageng'a Nanguba
+Aguthi-Gaaki
+Ahero
+Ainabkoi/Olare
+Ainamoi
+Airbase
+Airport
+Akachiu
+Akirang'ondu
+Akithii
+Alale
+Alango Gof
+Amalo
+Amukura Central
+Amukura East
+Amukura West
+Amwathi
+Ang'orom
+Ang'urai East
+Ang'urai North
+Ang'urai South
+Angata Barikoi
+Angata Nayokie
+Antuambui
+Antubetwe Kiongo
+Arabia
+Arbajahan
+Arror
+Ashabito
+Athi
+Athi River
+Athiru Gaiti
+Athiru Ruujine
+Athwana
+Awasi/Onjiko
+Baawa
+Babandogo
+Bahari
+Bahati
+Balambala
+Bamba
+Bamburi
+Bangale
+Banissa
+Banja
+Baragwi
+Baraki
+Bartabwa
+Barut
+Barwaqo
+Barwessa
+Basi Central
+Bassi Bogetaorio
+Basuba
+Batalu
+Batei
+Belgut
+Benane
+Biashara
+Bibirioni
+Bidii
+Birongo
+Bobaracho
+Bobasi Boitangare
+Bobasi Chache
+Bofu
+Bogeka
+Bogetenga
+Bogiakumu
+Bogichora
+Bogusero
+Boikanga
+Boito
+Bokeira
+Bokimonge
+Bokoli
+Bomani
+Bomariba
+Bombaba Borabu
+Bomorenda
+Bomwagamo
+Bonyamatuta
+Boochi Borabu
+Boochi Tendere
+Borabu Chitago
+Bosamaro
+Bosoti Sengera
+Bukembe East
+Bukembe West
+Bukhayo Central
+Bukhayo East
+Bukhayo North Walatsi
+Bukhayo West
+Bukira Central/Ikerege
+Bukira East
+Bula Pesa
+Bulla Mpya
+Bumula
+Bunyala Central
+Bunyala East
+Bunyala North
+Bunyala South
+Bunyala West
+Bura
+Burat
+Burder
+Burumba
+Busali
+Busibwabo
+Butali Chegulo
+Bute
+Butiye
+Butsotso Central
+Butsotso East
+Butsotso South
+Bwake/Luuya
+Bwiri
+California
+Central Alego
+Central Bunyore
+Central Gem
+Central Kamagambo
+Central Kanyamkago
+Central Karachuonyo
+Central Kasipul
+Central Kisumu
+Central Maragoli
+Central Mwingi Central
+Central Ndaragwa
+Central Nyakach
+Central Runyenjes
+Central Sakwa
+Central Seme
+Chaani
+Chaik
+Chakol North
+Chakol South
+Chala
+Changamwe
+Chania
+Charagita
+Chari
+Chasimba
+Chavakali
+Chawia
+Cheboin
+Chebunyo
+Chekalini
+Chemagel
+Chemaner
+Chemelil
+Chemelil/Chemase
+Chemosot
+Chemuche
+Chemundu/Kapng'etunyi
+Chengoni/Samburu
+Chepareria
+Chepchabas
+Chepchoina
+Chepkorio
+Chepkumia
+Chepkunyuk
+Cheplanget
+Chepseon
+Chepsiro/Kiptoror
+Cheptais
+Chepterwai
+Cheptiret/Kipchamo
+Cheptororiet/Seretut
+Chepyuk
+Cherab
+Cherangany
+Cherangany/Suwerwa
+Chesikaki
+Chesoen
+Chevaywa
+Chewani
+Chewele
+Chiakagira
+Chilchila
+Chinga
+Chogoria
+Chuluni
+Churo/Amaya
+Cianda
+Clay City
+Dabaso
+Dadaab
+Dadaja Bulla
+Dalalekutuk
+Damajale
+Danaba
+Dandora Area i
+Dandora Area ii
+Dandora Area iii
+Dandora Area iv
+Dandu
+Danyere
+Dedan Kimathi
+Dekaharia
+Della
+Derkhale
+Dertu
+Diif
+Dukana
+Dundori
+Dzombo
+East Asembo
+East Gem
+East Kabras
+East Kamagak
+East Kamagambo
+East Kano/Wawidhi
+East Kanyamkago
+East Sang'alo
+East Seme
+East Ugenya
+East Wanga
+Eastleigh North
+Eastleigh South
+Ekalakala
+Ekerenyo
+El-Barta
+Elben
+Elburgon
+Eldas
+Elementaita
+Elgon
+Elnur/Tula Tula
+Elugulu
+Elwak North
+Elwak South
+Emabungo
+Emali/Mulala
+Embakasi
+Embobut/Embulot
+Embomos
+Emining
+Emsoo
+Endau/Malalani
+Endebess
+Endo
+Endugh
+Engineer
+Entonet/Lenkism
+Esise
+Etenje
+Evurore
+Ewalel/Chapchap
+Ewuaso Oonkidong'i
+Fafi
+Faza
+Fino
+Flamingo
+Frere Town
+Gachuba
+Gaichanjiru
+Gakawa
+Galbet
+Ganda
+Ganga
+Ganjoni-Shimanzi
+Ganyure Wagalla
+Ganze
+Garashi
+Garbatulla
+Garsen Central
+Garsen North
+Garsen South
+Garsen West
+Gatanga
+Gatarakwa
+Gathanji
+Gathara
+Gathigiriri
+Gatimu
+Gatina
+Gatitu/Muruguru
+Gatongora
+Gatuanyaga
+Gatunga
+Gaturi
+Gaturi North
+Gaturi South
+Gembe
+Gesima
+Gesusu
+Geta
+Getenga
+Gikondi
+Gilgil
+Gisambai
+Gitaru
+Githabai
+Gither
+Githiga
+Githioro
+Githobokoni
+Githunguri
+Githurai
+Gitothua
+Gituamba
+Gitugi
+God Jope
+Godoma
+Gokeharaka/Getambwega
+Golbo
+Gombato Bongwe
+Gongoni
+Goreale
+Got Kachola
+Guba
+Gurar
+Guticha
+Gwassi North
+Gwassi South
+Habasswein
+Hadado Athibohol
+Harambee
+Heillu/Manyatta
+Hells Gate
+Hindi
+Hirimani
+Homa Bay Arujo
+Homa Bay Central
+Homa Bay East
+Homa Bay West
+Hongwe
+Hospital
+Hulugho
+Huruma
+Ibeno
+Ibrahim Ure
+Ichagaki
+Ichuni
+Idakho Central
+Idakho East
+Idakho North
+Idakho South
+Iftin
+Igambang`Ombe
+Igoji East
+Igoji West
+Igwamiti
+Iichamus
+Iikerin
+Ijara
+Ikanga/Kyatune
+Ikinu
+Ikombe
+Ikutha
+Ildamat
+Ilima
+Illeret
+Ilmotiook
+Iloodokilani
+Imara Daima
+Imaroro
+Imbrikani/Eselelnkei
+Ingoste-Matiha
+Inoi
+Iria-Ini
+Iriaini
+Isibania
+Isukha Central
+Isukha East
+Isukha North
+Isukha South
+Isukha West
+Ithanga
+Ithiru
+Itibo
+Ivingoni/Nzambani
+Jarajara
+Jarajila
+Jaribuni
+Jepkoyai
+Jilore
+Jomvu Kuu
+Juja
+Junda
+Junju
+Kaagari North
+Kaagari South
+Kaaleng/Kaikor
+Kabare
+Kabarnet
+Kabartonjo
+Kabaru
+Kabatini
+Kabazi
+Kabete
+Kabianga
+Kabiemit
+Kabiro
+Kabisaga
+Kabiyet
+Kabondo East
+Kabondo West
+Kabonyo Kanyagwal
+Kabouch North
+Kabuchai/Chwele
+Kabula
+Kabuoch South/Pala
+Kabwareng
+Kachieng'
+Kadzandani
+Kaeris
+Kagan
+Kagundu-Ini
+Kahawa
+Kahawa Wendani
+Kahawa West
+Kahawa/Sukari
+Kahumbu
+Kaimbaga
+Kajulu
+Kakateny
+Kakrao
+Kaksingiri West
+Kakuma
+Kakuyuni
+Kakuzi/Mitubiri
+Kalama
+Kalapata
+Kalawa/ Kathulumbi
+Kaler
+Kalimoni
+Kalobeyei
+Kalokol
+Kaloleni
+Kamacharia
+Kamagut
+Kamahuhu
+Kamakwa/Mukaro
+Kamara
+Kamariny
+Kamasian
+Kambe/Ribe
+Kambiti
+Kamburu
+Kamenu
+Kamera
+Kamukuywa
+Kanamkemer
+Kang'atotha
+Kangai
+Kangari
+Kangemi
+Kangeta
+Kangundo Central
+Kangundo East
+Kangundo North
+Kangundo West
+Kanjuiri Range
+Kanuni
+Kanyadoto
+Kanyaluo
+Kanyamwa Kologi
+Kanyamwa Kosewe
+Kanyangi
+Kanyasa
+Kanyekini
+Kanyenya-Ini
+Kanyikela
+Kanziko
+Kapchemutwa
+Kapchok
+Kapchorua
+Kapedo/Napeitom
+Kapenguria
+Kapkangani
+Kapkatet
+Kapkugerwet
+Kapkures
+Kaplamai
+Kaplelartet
+Kapletundo
+Kapomboi
+Kapropita
+Kapsabet
+Kapsaos
+Kapsasian
+Kapsimotwo
+Kapsoit
+Kapsowar
+Kapsoya
+Kaptagat
+Kaptama
+Kaptarakwa
+Kaptel/Kamoiywo
+Kaptembwo
+Kaptumo/Kaboi
+Kaputiei North
+Kaputir
+Kapyego
+Karai
+Karama
+Karare
+Karatina Town
+Karau
+Karen
+Kargi/South Horr
+Kariara
+Karima
+Karingani
+Kariobangi North
+Kariobangi South
+Kariti
+Karumandi
+Karuna/Meibeki
+Karura
+Karuri
+Kasarani
+Kasei
+Kasemeni
+Kasgunga
+Kasigau
+Kasikeu
+Katangi
+Kathiani Central
+Kathonzweni
+Katilia
+Katilu
+Kauwi
+Kawangware
+Kayafungo
+Kayole Central
+Kayole North
+Kayole South
+Kedowa/Kimugul
+Kee
+Keekonyokie
+Kegogi
+Keiyo
+Kembu
+Kemeloi-Maraba
+Kendu Bay Town
+Kenyawa-Poka
+Keringet
+Kerio Delta
+Kerugoya
+Keumbu
+Keyian
+Khalaba
+Khalalio
+Khasoko
+Kholera
+Khorof/Harar
+Kiabonyoru
+Kiagu
+Kiamaiko
+Kiamaina
+Kiambere
+Kiambu Township
+Kiamokama
+Kiamwangi
+Kianjai
+Kibarani
+Kibauni
+Kibingei
+Kibiri
+Kibirichia
+Kibish
+Kiegoi/Antubochiu
+Kiengu/Igembe East
+Kiganjo
+Kiganjo/Mathari
+Kiguchwa
+Kigumo
+Kihara
+Kihingo
+Kihumbu-Ini
+Kiima Kiu/Kalanzoni
+Kiine
+Kiirua Naari
+Kijabe
+Kikumbulyu North
+Kikumbulyu South
+Kikuyu
+Kileleshwa
+Kilgoris Central
+Kilibwoni
+Kilimani
+Kiliwaheri
+Kilungu
+Kimaeti
+Kimana
+Kimilili
+Kiminini
+Kimintet
+Kimorori/Wempa
+Kimulot
+Kimumu
+Kinakomba
+Kinale
+Kinango
+Kinanie
+Kingandole
+Kinna
+Kinondo
+Kinoo
+Kinyona
+Kinyoro
+Kiogoro
+Kiomo/Kyethani
+Kipchebor
+Kipchimchim
+Kipevu
+Kipini East
+Kipini West
+Kipipiri
+Kipkaren
+Kipkelion
+Kipkenyo
+Kiplombe
+Kipreres
+Kipsomba
+Kipsonoi
+Kiptagich
+Kiptororo
+Kiptuiya
+Kirimari
+Kirimukuyu
+Kiritta
+Kiru
+Kisa Central
+Kisa East
+Kisa North
+Kisa West
+Kisanana
+Kisasi
+Kisiara
+Kisii Central
+Kisima
+Kitengela
+Kiteta-Kisau
+Kithimani
+Kithimu
+Kithungo/Kitundu
+Kitise/Kithuki
+Kitisuru
+Kiunga
+Kiuu
+Kivaa
+Kivou
+Kivumbini
+Kiwawa
+Kobujoi
+Kobura
+Kochia
+Kodich
+Koibatek
+Kojwach
+Kokwanyo/Kakelo
+Kola
+Kolowa
+Kolwa Central
+Kolwa East
+Komarock
+Komothai
+Kondele
+Kong'asis
+Kongoni
+Kongowea
+Konyu
+Korogocho
+Korondile
+Korr/Ngurunit
+Kosirai
+Kotaruk/Lobei
+Kotulo
+Koyo/Ndurio
+Koyonzo
+Kubo South
+Kuinet/Kapsuswa
+Kuku
+Kunyak
+Kurgung/Surungai
+Kwa
+Kwa Njenga
+Kwa Reuben
+Kwabwai
+Kwamutonga/Kithumula
+Kwanza
+Kware
+Kwavonza/Yatta
+Kyangwithya East
+Kyangwithya West
+Kyeleni
+Kyeni North
+Kyeni South
+Kyome/Thaana
+Kyuso
+Labisgale
+Lafey
+Lagboghoi South
+Laghsure
+Laini Saba
+Laisamis
+Lake View
+Lakezone
+Lakoley South/Basir
+Lambwe
+Landimawe
+Lanet/Umoja
+Langas
+Lapur
+Lare
+Lari/Kirenga
+Lelan
+Lelmoko/Ngechek
+Lembus
+Lembus Kwen
+Lembus/Perkerra
+Leshau/Pondo
+Letea
+Libehia
+Liboi
+Likoni
+Likuyani
+Limuru Central
+Limuru East
+Lindi
+Litein
+Lobokat
+Lodokejek
+Lodwar Township
+Logologo
+Loima
+Loita
+Loiyamorok
+Loiyangalani
+Lokichar
+Lokichoggio
+Lokiriama/Lorengippi
+Lokori/Kochodin
+Lolgorian
+Lomut
+Londiani
+London
+Longisa
+Loosuk
+Lopur
+Lower Kaewa-Kaani
+Lower Savanna
+Luanda South
+Luanda Township
+Lucky Summer
+Lugaga-Wamuluma
+Lugari
+Lumakanda
+Lusheya Lubinu
+Lwandanyi
+Lwandeti
+Lyaduywa/Izava
+Maalimin
+Mabatini
+Macalder/Kanyarwanda
+Machewa
+Mackinon Road
+Madogo
+Maeilla
+Maeni
+Magadi
+Magarini
+Magenche
+Magogoni
+Magombo
+Magumoni
+Magumu
+Magutu
+Magwagwa
+Mahiakalo
+Mahiga
+Mahoo
+Mai Mahiu
+Maikona
+Majengo
+Maji Moto/Naroosura
+Majoge Basi
+Makadara-Mji Wa Kale
+Makima
+Makina
+Makindu
+Makongeni
+Makutano
+Makutano-Mwala
+Makuyu
+Malaba Central
+Malaba North
+Malaba South
+Malaha Isongo Makunga
+Malakisi/South Kulisiru
+Malewa West
+Malindi Town
+Malkagufu
+Malkamari
+Mananja
+Manda-Shivanga
+Mang'u
+Manga
+Manyatta B
+Mara
+Marachi Central
+Marachi East
+Marachi North
+Marachi West
+Marafa
+Maraka
+Marakaru/Tuuti
+Maralal
+Marama Central
+Marama North
+Marama South
+Marama West
+Marani
+Marenyo-Shianda
+Mariakani
+Mariani
+Mariashoni
+Marigat
+Marimanti
+Maringo/Hamza
+Market Milimani
+Marmanet
+Marothile
+Marsabit Central
+Marungu
+Masaba
+Masalani
+Masige East
+Masige West
+Masii
+Masimba
+Masinga Central
+Masogo/Nyang'oma
+Masongaleni
+Masool
+Mata
+Matapato North
+Matapato South
+Matayos South
+Mathare North
+Mathatani
+Matinyani
+Matisi
+Matopeni/Spring Valley
+Matsangoni
+Matulo
+Matumbei
+Matungulu East
+Matungulu North
+Matungulu West
+Matuu
+Mau Narok
+Maua
+Mauche
+Mautuma
+Mavindini
+Mavuria
+Mayenje
+Mayoni
+Mbakalo
+Mbaruk/Eburu
+Mbeti North
+Mbeti South
+Mbeu
+Mbiri
+Mbitini
+Mbiuni
+Mboghoni
+Mbololo
+Mbooni
+Megun
+Mekenene
+Melelo
+Melili
+Menengai
+Menengai West
+Merigi
+Metkei
+Mfangano Island
+Miambani
+Migosi
+Migwani
+Mihango
+Mihuu
+Mikindani
+Mikinduni
+Mikinduri
+Milima
+Mirangine
+Miritini
+Misikhu
+Mitamboni
+Mitheru
+Mitunguu
+Miwani
+Mjambere
+Mkomami
+Mkomani
+Mkongani
+Mkunumbi
+Mlango Kubwa
+Mnagei
+Mnarani
+Mochongoi
+Modogashe
+Mogogosiek
+Mogondo
+Mogotio
+Moi's Bridge
+Moiben
+Moiben Kuserwo
+Mokerero
+Molo
+Monyerero
+Mosiro
+Mosop
+Moticho
+Motosiet
+Mountain View
+Mowlem
+Moyale Township
+Mtepeni
+Mtito Andei
+Mtongwe
+Mtopanga
+Mua
+Muchatha
+Mugogodo East
+Mugogodo West
+Mugoiri
+Muguga
+Mugumo-Ini
+Mugunda
+Muguru
+Mugwe
+Muhoroni Koru
+Muhudu
+Muhuru
+Mui
+Mukaa
+Mukothima
+Mukure
+Mukurwe-Ini Central
+Mukurwe-Ini West
+Mukutani
+Mukuyuni
+Mulango
+Mumberes/Maji Mazuri
+Mumbuni North
+Mumias Central
+Mumias North
+Muminji
+Mumoni
+Mungoma
+Municipality
+Murarandia
+Murera
+Murhanda
+Murindat
+Murinduko
+Muruka
+Murungaru
+Musanda
+Musikoma
+Mutarakwa
+Mutha
+Muthambi
+Muthara
+Muthesya
+Muthetheni
+Muthithi
+Mutira
+Mutithi
+Mutitu/Kaliku
+Mutituni
+Mutomo
+Mutongoni
+Mutu-Ini
+Muvau/Kikumini
+Muvuti-Kiima-Kimwe
+Mwakirunge
+Mwanamwinga
+Mwanda/Mgange
+Mwangathia
+Mwarakaya
+Mwatate
+Mwavumbo
+Mwawesa
+Mwea
+Mweiga
+Mwereni
+Mwibona
+Mwihoko
+Mwiki
+Mwimbi
+Mwiyogo/Endarasha
+Naathu
+Nabiswa
+Nachola
+Nachu
+Naikarra
+Nairobi Central
+Nairobi South
+Nairobi West
+Naitiri/Kabuyefwe
+Naivasha East
+Nakalale
+Nakuru East
+Namamali
+Nambale Township
+Namboboto Nambuku
+Namwela
+Nanaam
+Nandi Hills
+Nangina
+Nanighi
+Nanyuki
+Narok Town
+Naromoru/Kiamathaga
+Ndalani
+Ndalat
+Ndalu/ Tabani
+Ndanai/Abosi
+Ndaraweta
+Ndarugu
+Ndavaya
+Ndeiya
+Ndenderu
+Ndivisi
+Ndoto
+Ndumberi
+Neboi
+Nessuit
+Ng'araria
+Ngando
+Ngara
+Ngare Mara
+Ngariama
+Ngecha Tigoni
+Ngei
+Ngenda
+Ngenyilel
+Ngeria
+Ngewa
+Nginda
+Ngobit
+Ngolia
+Ngoliba
+Ngomeni
+Ngong
+Nguni
+Nguu/Masumba
+Nguumo
+Nguutani
+Njabani/Kiburu
+Njia
+Njiru
+Njoro
+Njukiine
+Nkaimurunya
+Nkareta
+Nkomo
+Nkondi
+Nkuene
+North  Kanyamkago
+North Alego
+North East Bunyore
+North Gem
+North Horr
+North Kadem
+North Kamagambo
+North Karachuonyo
+North Kinangop
+North Kisumu
+North Maragoli
+North Nyakach
+North Sakwa
+North Seme
+North Ugenya
+North Uyoma
+North West Kisumu
+Nthawa
+Ntima East
+Ntima West
+Ntimaru East
+Ntimaru West
+Ntunene
+Nuu
+Nyabasi East
+Nyabasi West
+Nyacheki
+Nyadhuna
+Nyaki East
+Nyaki West
+Nyakio
+Nyakoe
+Nyalenda A
+Nyalenda B
+Nyamaiya
+Nyamasibi
+Nyamosense/Komosoko
+Nyanduma
+Nyangati
+Nyangores
+Nyansiongo
+Nyatieko
+Nyayo Highrise
+Nyiro
+Nyota
+Nzambani
+Nzaui/Kilili/Kalamba
+Nzoia
+Obbu
+Ol'lessos
+Ol-Moran
+Oldonyiro
+Olkaria
+Olkeri
+Olokurto
+Ololmasani
+Ololulung'a
+Oloolua
+Oloosirkon/Sholinke
+Olorropil
+Olposimoru
+Ombeyi
+Ongata Rongai
+Pangani
+Parklands/Highridge
+Pipeline
+Pongwe Kikoneni
+Porro
+Port Reitz
+Puma
+Pumwani
+Purko
+Rabai/Kisurutini
+Racecourse
+Ragana-Oruba
+Railways
+Ramisi
+Ravine
+Rhamu
+Rhamu Dimtu
+Rhoda
+Riabai
+Riana
+Ribkwo
+Rigoma
+Riruta
+Riwo
+Rombo
+Ronge
+Rongena/Manaret
+Roysambu
+Ruai
+Ruchu
+Rugi
+Ruguru
+Ruguru-Ngandori
+Ruiru Rwawera
+Ruma-Kaksingiri East
+Rumuruti Township
+Rurii
+Ruring'u / Karia
+Ruruma
+Rusinga Island
+Rware
+Rwathia
+Sabaki
+Sabena
+Saboti
+Sacho
+Sagala
+Sagamian
+Sagante/Jaldesa
+Saimo/Soi
+Saimoi/Kipsaraman
+Saka
+Sala
+Salama
+Sambirir
+Sameta Mokwerero
+Sangailu
+Sangalo/Kebulonik
+Sango
+Sankuri
+Sarang'ombe
+Sarman
+Segera
+Segeroi/Barsombe
+Sekerr
+Sengwer
+Sensi
+Sergoit
+Sericho
+Shaabab
+Shamakhokho
+Shamata
+Shambir Fatuma
+Shankoe
+Shanzu
+Shauri Moyo Kaloleni
+Shella
+Sheywe
+Shika Adabu
+Shimo La Tewa
+Shinoyi-Shikomari-Esumeiya
+Shirere
+Shiru
+Shirungu-Mugai
+Siana
+Siaya Township
+Siboti
+Sidindi
+Sigomere
+Sigona
+Sigor
+Sigowet
+Sikhendu
+Silale
+Silibwet Township
+Simat/ Kapseret
+Singorwet
+Sinoko
+Sinyerere
+Siongiroi
+Sirende
+Sirikwa
+Sitatunga
+Sitikho
+Siyoi
+Sogoo
+Soin
+Sokoke
+Sokoni
+Solai
+Soliat
+Sololo
+Songhor/Soba
+Songot
+Sook
+Sosian
+South Bukusu
+South C
+South East Alego
+South East Nyakach
+South Gem
+South Kabras
+South Kamagambo
+South Kanyamkago
+South Kasipul
+South Maragoli
+South Sakwa
+South Uyoma
+South West Kisumu
+South West Nyakach
+Soy
+Soy North
+Soy South
+Soysambu/ Mitua
+Suam
+Subukia
+Suguta Marmar
+Suna Central
+Suswa
+Syokimau-Mulolongo
+Tabaka
+Tagare
+Takaba
+Takaba South
+Tala
+Tambach
+Tambua
+Tangulbei/Korossi
+Tapach
+Tapsagoi
+Tarakwa
+Tarbaj
+Tebere
+Tebesonik
+Tembelio
+Tendeno/Sorget
+Tenges
+Terik
+Tezo
+Thangatha
+Thange
+Tharaka
+Thegu River
+Theta
+Thiba
+Thika Township
+Thingithu
+Tigithi
+Timau
+Timbwani
+Tinderet
+Tinet
+Ting'ang'a
+Tirioko
+Tiwi
+Tongaren
+Tononoka
+Township
+Tseikuru
+Tsimba Golini
+Tudor
+Tulimani
+Tulwet/Chiyat
+Turbi
+Turi
+Turkwel
+Tuwani
+Ugunja
+Ukia
+Ukunda
+Ukwala
+Umande
+Umoja I
+Umoja Ii
+Upper Kaewa-Iveti
+Upper Savanna
+Uran
+Usonga
+Utalii
+Utawala
+Uthiru
+Uthiru/Ruthimitu
+Vanga
+Visoi
+Viwandani
+Voo/Kyamatu
+Waa Ngombeni
+Wabera
+Waberi
+Wagberi
+Waia/Kako
+Waita
+Waitaluk
+Waithaka
+Waldai
+Wamagana
+Wamba East
+Wamba North
+Wamba West
+Wamumu
+Wamunyu
+Wang'chieng
+Wangu
+Wanjohi
+Warankara
+Wargadud
+Waseges
+Waseweta Ii
+Wasimbete
+Waso
+Watamu
+Wayu
+Wei Wei
+Wemilabi
+Weru
+Werugha
+West Alego
+West Asembo
+West Bukusu
+West Bunyore
+West Gem
+West Kabras
+West Kamagak
+West Kanyamkago
+West Karachuonyo
+West Kasipul
+West Kisumu
+West Nalondo
+West Nyakach
+West Sabatia
+West Sakwa
+West Sang'alo
+West Seme
+West Ugenya
+West Uyoma
+West Yimbo
+Wiga
+Witeithie
+Witu
+Wodanga
+Woodley/Kenyatta Golf Course
+Wote
+Wumingu/Kishushe
+Wundanyi/Mbale
+Wusi/Kishamba
+Yala Township
+Yimbo East
+Zimmerman
+Ziwa
+Ziwa La Ng'ombe
+Ziwani/Kariokor
+Zombe/Mwitika
